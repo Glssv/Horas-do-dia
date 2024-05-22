@@ -1,5 +1,7 @@
 # Estudonauta | Projeto horas do dia
 
+O link pra acessar o site [está aqui](https://horas-do-dia.netlify.app/)
+
 ### Qual o objetivo desse site? 
 
 Este projeto tem como objetivo criar um site que se adapte dinamicamente de acordo com o horário atual. Isso significa que o conteúdo e o design do site serão ajustados com base na hora do dia em que o usuário o acessa.
